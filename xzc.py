@@ -3,11 +3,7 @@ def my_superfunction():
 
 
 def main():
-    g = 7 + 8 + 76 + 56 + 5
-    print('My first git program')
-    print('And I change it every day')
-    print('Again')
-    print('UFO came and added this line')
+    print('яндекс лицей привет"!!!!')
     my_superfunction()
 
 
